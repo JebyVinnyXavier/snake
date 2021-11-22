@@ -1,18 +1,9 @@
  
 body { 
-  background-color: rgba(128, 240, 240, .4);
+  background-color: white;
   text-align: center;
   box-sizing: border-box;
-  font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
-}
-
-.row-title {
-  background-color: white;
-  margin: 15px;
-  align-items: center;
-  border: 1px solid lightcoral;
-  display: flex;
-  box-shadow: 5px 10px 18px black;
+  font-family: Arial, Helvetica, sans-serif
 }
 
 .row-t {
