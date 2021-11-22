@@ -6,4 +6,4 @@ The goal is to make a game board table that matches the following image (minus t
 <br><br>
 ## References:
 
-Author: Amie Carroll
+Author: Vinny
