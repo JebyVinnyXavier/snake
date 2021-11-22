@@ -23,7 +23,6 @@ body {
 .container {
   justify-content: center;
   margin: 50px auto;
-  /* display: inline;  */
   align-items: center;
 }
 
@@ -38,7 +37,7 @@ body {
   display: block;
 } 
 
-#die-image:active, #die-image:focus { /*trying to get the dice not to move when button clicked, didn't work */
+#die-image:active, #die-image:focus { 
   position: relative;
 }
 
@@ -61,7 +60,7 @@ button {
   margin: 20px;
 }
 
-table, td {transform: scaleY(-1); /* numbering bottom to top */ }
+table, td {transform: scaleY(-1);  }
 
 table {
   display: flex;
